@@ -10,7 +10,7 @@ cv: "/cv.pdf"
 hero:
   greeting: "Hi, I'm"
   name: "Elijah Hsu"
-  subtitle: "I build elegant digital experiences."
+  subtitle: "Exploring the layers beneath the machine."
   description: "I’m a Computer Science student with a strong interest in low-level optimization, computer architecture, algorithm design, and machine learning.
 "
 
